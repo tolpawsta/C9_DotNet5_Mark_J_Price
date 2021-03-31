@@ -21,6 +21,11 @@ namespace WorkingWithNumbers
             var c2 = new Complex(3, 7);
             var c3 = c1 + c2;
             WriteLine($"{c1} added to {c2} is {c3}");
+
+            // Working with strings
+            string[] citiesArray = new [] { "Grodno", "Minsk", "Brest" };
+            string recombined = string.Join("=>", citiesArray);
+            WriteLine (recombined);
         }
     }
 }
