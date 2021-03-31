@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "abJyJhjFdGlYHMJkijhovK9FqF6TYRLKSVT9ivyDEytu9zQgFNe3KL73DTY7YRYkCeTT4catGnZC1kKV4yEJJg==",
+  "success": true,
+  "projectFilePath": "D:\\PAVEL\\dotnet\\dotnet5\\Chapter07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolpa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tolpa\\.nuget\\packages\\palw.packt.csdotnet.sharedlibrary\\1.0.0\\palw.packt.csdotnet.sharedlibrary.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,157 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 12 benchmark(s) in total *****
+// ***** Building 2 exe(s) in Parallel: Start   *****
+// ***** Done, took 00:00:00 (0.25 sec)   *****
+// Found 12 benchmarks:
+//   DemoBenchmarkDotNet.BenchFor: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=10]
+//   DemoBenchmarkDotNet.BenchWhile: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=10]
+//   DemoBenchmarkDotNet.BenchFor: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=10]
+//   DemoBenchmarkDotNet.BenchWhile: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=10]
+//   DemoBenchmarkDotNet.BenchFor: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+//   DemoBenchmarkDotNet.BenchFor: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+//   DemoBenchmarkDotNet.BenchWhile: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+//   DemoBenchmarkDotNet.BenchWhile: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+//   DemoBenchmarkDotNet.BenchFor: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+//   DemoBenchmarkDotNet.BenchFor: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+//   DemoBenchmarkDotNet.BenchWhile: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+//   DemoBenchmarkDotNet.BenchWhile: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+  BenchmarkDotNet.Artifacts\results\PacktLibrary.DemoBenchmarkDotNet-report.csv
+  BenchmarkDotNet.Artifacts\results\PacktLibrary.DemoBenchmarkDotNet-report-github.md
+  BenchmarkDotNet.Artifacts\results\PacktLibrary.DemoBenchmarkDotNet-report.html
+
+// * Detailed results *
+DemoBenchmarkDotNet.BenchFor: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=10]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchFor: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=10]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchWhile: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=10]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchWhile: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=10]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchFor: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchFor: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchFor: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchFor: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchWhile: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchWhile: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchWhile: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBenchmarkDotNet.BenchWhile: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+Runtime = ; GC = 
+There are not any results runs
+
+// * Summary *
+
+BenchmarkDotNet=v0.12.1, OS=Windows 10.0.19042
+AMD Athlon(tm) II X4 635 Processor, 1 CPU, 4 logical and 4 physical cores
+.NET Core SDK=5.0.201
+  [Host] : .NET Core 5.0.4 (CoreCLR 5.0.421.11614, CoreFX 5.0.421.11614), X64 RyuJIT
+
+
+|     Method |           Job |       Runtime | FinishNumber | Mean | Error | Ratio | RatioSD |
+|----------- |-------------- |-------------- |------------- |-----:|------:|------:|--------:|
+|   BenchFor |      .NET 4.8 |      .NET 4.8 |           10 |   NA |    NA |     ? |       ? |
+|   BenchFor | .NET Core 5.0 | .NET Core 5.0 |           10 |   NA |    NA |     ? |       ? |
+|            |               |               |              |      |       |       |         |
+| BenchWhile |      .NET 4.8 |      .NET 4.8 |           10 |   NA |    NA |     ? |       ? |
+| BenchWhile | .NET Core 5.0 | .NET Core 5.0 |           10 |   NA |    NA |     ? |       ? |
+|            |               |               |              |      |       |       |         |
+|   BenchFor |      .NET 4.8 |      .NET 4.8 |          100 |   NA |    NA |     ? |       ? |
+|   BenchFor |      .NET 4.8 |      .NET 4.8 |          100 |   NA |    NA |     ? |       ? |
+|   BenchFor | .NET Core 5.0 | .NET Core 5.0 |          100 |   NA |    NA |     ? |       ? |
+|   BenchFor | .NET Core 5.0 | .NET Core 5.0 |          100 |   NA |    NA |     ? |       ? |
+|            |               |               |              |      |       |       |         |
+| BenchWhile |      .NET 4.8 |      .NET 4.8 |          100 |   NA |    NA |     ? |       ? |
+| BenchWhile |      .NET 4.8 |      .NET 4.8 |          100 |   NA |    NA |     ? |       ? |
+| BenchWhile | .NET Core 5.0 | .NET Core 5.0 |          100 |   NA |    NA |     ? |       ? |
+| BenchWhile | .NET Core 5.0 | .NET Core 5.0 |          100 |   NA |    NA |     ? |       ? |
+
+Benchmarks with issues:
+  DemoBenchmarkDotNet.BenchFor: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=10]
+  DemoBenchmarkDotNet.BenchFor: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=10]
+  DemoBenchmarkDotNet.BenchWhile: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=10]
+  DemoBenchmarkDotNet.BenchWhile: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=10]
+  DemoBenchmarkDotNet.BenchFor: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+  DemoBenchmarkDotNet.BenchFor: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+  DemoBenchmarkDotNet.BenchFor: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+  DemoBenchmarkDotNet.BenchFor: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+  DemoBenchmarkDotNet.BenchWhile: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+  DemoBenchmarkDotNet.BenchWhile: .NET 4.8(Runtime=.NET 4.8) [FinishNumber=100]
+  DemoBenchmarkDotNet.BenchWhile: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+  DemoBenchmarkDotNet.BenchWhile: .NET Core 5.0(Runtime=.NET Core 5.0) [FinishNumber=100]
+
+// * Warnings *
+BaselineCustomAnalyzer
+  Summary -> A question mark '?' symbol indicates that it was not possible to compute the (Ratio, RatioSD) column(s) because the baseline value is too close to zero.
+
+// * Legends *
+  FinishNumber : Value of the 'FinishNumber' parameter
+  Mean         : Arithmetic mean of all measurements
+  Error        : Half of 99.9% confidence interval
+  Ratio        : Mean of the ratio distribution ([Current]/[Baseline])
+  RatioSD      : Standard deviation of the ratio distribution ([Current]/[Baseline])
+  1 ns         : 1 Nanosecond (0.000000001 sec)
+
+// ***** BenchmarkRunner: End *****
+// ** Remained 0 benchmark(s) to run **
+Run time: 00:00:00 (0.85 sec), executed benchmarks: 0
+
+Global total time: 00:00:01 (1.12 sec), executed benchmarks: 0
+// * Artifacts cleanup *

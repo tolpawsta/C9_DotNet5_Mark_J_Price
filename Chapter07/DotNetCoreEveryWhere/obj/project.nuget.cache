@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2aFM7VqMUKTniw76zfa2HhK30jz0DQ1GpVx8LRC2a1uatTjlD3EHi9DKWvA8RLokjRutG3bl1+nHcc5ZGQdwA==",
+  "success": true,
+  "projectFilePath": "D:\\PAVEL\\dotnet\\dotnet5\\Chapter07\\DotNetCoreEveryWhere\\DotNetCoreEveryWhere.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolpa\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.4\\microsoft.netcore.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\tolpa\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\tolpa\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.4\\microsoft.aspnetcore.app.runtime.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+D:\PAVEL\dotnet\dotnet5\Chapter07\SharedLibrary\bin\Debug\netstandard2.1\SharedLibrary.deps.json
+D:\PAVEL\dotnet\dotnet5\Chapter07\SharedLibrary\bin\Debug\netstandard2.1\SharedLibrary.dll
+D:\PAVEL\dotnet\dotnet5\Chapter07\SharedLibrary\bin\Debug\netstandard2.1\SharedLibrary.pdb
+D:\PAVEL\dotnet\dotnet5\Chapter07\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.csprojAssemblyReference.cache
+D:\PAVEL\dotnet\dotnet5\Chapter07\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.AssemblyInfoInputs.cache
+D:\PAVEL\dotnet\dotnet5\Chapter07\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.AssemblyInfo.cs
+D:\PAVEL\dotnet\dotnet5\Chapter07\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\PAVEL\dotnet\dotnet5\Chapter07\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.dll
+D:\PAVEL\dotnet\dotnet5\Chapter07\SharedLibrary\obj\Debug\netstandard2.1\SharedLibrary.pdb

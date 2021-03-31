@@ -1,0 +1,5 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 4 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore -r win-x64 /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in D:\PAVEL\dotnet\dotnet5\Chapter06\PeopleApp\bin\Release\net5.0\049cb381-cb3f-4a3e-8e60-1a13afdc24fa

@@ -1,0 +1,32 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ImportDirectoryBuildProps>false</ImportDirectoryBuildProps>
+    <ImportDirectoryBuildTargets>false</ImportDirectoryBuildTargets>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <RuntimeFrameworkVersion></RuntimeFrameworkVersion>
+    <AssemblyName>30e35eec-0dc9-4aa4-868d-6d76b65611a8</AssemblyName>
+    <AssemblyTitle>30e35eec-0dc9-4aa4-868d-6d76b65611a8</AssemblyTitle>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <UseSharedCompilation>false</UseSharedCompilation>
+    <RootAllApplicationAssemblies>False</RootAllApplicationAssemblies>
+    <IlcGenerateCompleteTypeMetadata>True</IlcGenerateCompleteTypeMetadata>
+    <IlcGenerateStackTraceData>True</IlcGenerateStackTraceData>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Compile Include="30e35eec-0dc9-4aa4-868d-6d76b65611a8.notcs" Exclude="bin\**;obj\**;**\*.xproj;packages\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.DotNet.ILCompiler" Version="1.0.0-alpha-*" />
+    <ProjectReference Include="D:\PAVEL\dotnet\dotnet5\Chapter06\PeopleApp\PeopleApp.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <RdXmlFile Include="rd.xml" />
+  </ItemGroup>
+</Project>

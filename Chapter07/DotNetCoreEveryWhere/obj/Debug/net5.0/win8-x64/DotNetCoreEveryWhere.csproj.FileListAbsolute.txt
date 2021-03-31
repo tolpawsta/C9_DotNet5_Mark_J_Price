@@ -1,0 +1,14 @@
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.exe
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.deps.json
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.runtimeconfig.json
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.runtimeconfig.dev.json
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.dll
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Debug\net5.0\win8-x64\ref\DotNetCoreEveryWhere.dll
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\obj\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.csprojAssemblyReference.cache
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\obj\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\obj\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.AssemblyInfoInputs.cache
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\obj\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.AssemblyInfo.cs
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\obj\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.csproj.CoreCompileInputs.cache
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\obj\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.dll
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\obj\Debug\net5.0\win8-x64\ref\DotNetCoreEveryWhere.dll
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\obj\Debug\net5.0\win8-x64\DotNetCoreEveryWhere.genruntimeconfig.cache

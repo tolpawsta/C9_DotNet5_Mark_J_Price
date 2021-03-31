@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ee7cUqSiswwRMrNRf8No21mEjqRS6TppqfBHvFWn/bi2KgpT7r+mTaKdQOVsUPrwivqmx9ca5Yhj/BlyAUHIDQ==",
+  "success": true,
+  "projectFilePath": "D:\\PAVEL\\dotnet\\dotnet5\\Chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolpa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tolpa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

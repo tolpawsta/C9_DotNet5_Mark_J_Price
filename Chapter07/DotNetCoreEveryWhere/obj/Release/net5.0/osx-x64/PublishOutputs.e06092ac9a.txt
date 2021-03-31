@@ -1,0 +1,8 @@
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\osx-x64\publish\libSystem.IO.Compression.Native.dylib
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\osx-x64\publish\libSystem.Native.dylib
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\osx-x64\publish\libSystem.Net.Security.Native.dylib
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\osx-x64\publish\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\osx-x64\publish\libSystem.Security.Cryptography.Native.OpenSsl.dylib
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\osx-x64\publish\libclrjit.dylib
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\osx-x64\publish\libcoreclr.dylib
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Release\net5.0\osx-x64\publish\DotNetCoreEveryWhere

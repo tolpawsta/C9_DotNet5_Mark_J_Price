@@ -1,0 +1,16 @@
+D:\pavel\dotnet\dotnet5\chapter04\debugging\obj\Debug\net5.0\Debugging.csprojAssemblyReference.cache
+D:\pavel\dotnet\dotnet5\chapter04\debugging\obj\Debug\net5.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\pavel\dotnet\dotnet5\chapter04\debugging\obj\Debug\net5.0\Debugging.AssemblyInfoInputs.cache
+D:\pavel\dotnet\dotnet5\chapter04\debugging\obj\Debug\net5.0\Debugging.AssemblyInfo.cs
+D:\pavel\dotnet\dotnet5\chapter04\debugging\obj\Debug\net5.0\Debugging.csproj.CoreCompileInputs.cache
+D:\pavel\dotnet\dotnet5\chapter04\debugging\bin\Debug\net5.0\Debugging.exe
+D:\pavel\dotnet\dotnet5\chapter04\debugging\bin\Debug\net5.0\Debugging.deps.json
+D:\pavel\dotnet\dotnet5\chapter04\debugging\bin\Debug\net5.0\Debugging.runtimeconfig.json
+D:\pavel\dotnet\dotnet5\chapter04\debugging\bin\Debug\net5.0\Debugging.runtimeconfig.dev.json
+D:\pavel\dotnet\dotnet5\chapter04\debugging\bin\Debug\net5.0\Debugging.dll
+D:\pavel\dotnet\dotnet5\chapter04\debugging\bin\Debug\net5.0\ref\Debugging.dll
+D:\pavel\dotnet\dotnet5\chapter04\debugging\bin\Debug\net5.0\Debugging.pdb
+D:\pavel\dotnet\dotnet5\chapter04\debugging\obj\Debug\net5.0\Debugging.dll
+D:\pavel\dotnet\dotnet5\chapter04\debugging\obj\Debug\net5.0\ref\Debugging.dll
+D:\pavel\dotnet\dotnet5\chapter04\debugging\obj\Debug\net5.0\Debugging.pdb
+D:\pavel\dotnet\dotnet5\chapter04\debugging\obj\Debug\net5.0\Debugging.genruntimeconfig.cache

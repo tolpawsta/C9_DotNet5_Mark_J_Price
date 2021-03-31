@@ -1,0 +1,1 @@
+D:\PAVEL\dotnet\dotnet5\Chapter07\DotNetCoreEveryWhere\bin\Debug\net5.0\win-x64\publish\DotNetCoreEveryWhere.exe

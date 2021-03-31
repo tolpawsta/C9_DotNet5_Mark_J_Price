@@ -1,0 +1,7 @@
+Mono is not installed or added to PATH, benchmark 'DemoBenchmarkDotNet.BenchFor: Mono(Runtime=Mono) [finishNumber=10]' will not be executed
+Mono is not installed or added to PATH, benchmark 'DemoBenchmarkDotNet.BenchFor: Mono(Runtime=Mono) [finishNumber=100]' will not be executed
+Mono is not installed or added to PATH, benchmark 'DemoBenchmarkDotNet.BenchFor: Mono(Runtime=Mono) [finishNumber=1000]' will not be executed
+// Validating benchmarks:
+Assembly packtlibrary which defines benchmarks is non-optimized
+Benchmark was built without optimization enabled (most probably a DEBUG configuration). Please, build it in RELEASE.
+If you want to debug the benchmarks, please see https://benchmarkdotnet.org/articles/guides/troubleshooting.html#debugging-benchmarks.

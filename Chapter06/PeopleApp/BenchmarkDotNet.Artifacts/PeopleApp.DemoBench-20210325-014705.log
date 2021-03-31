@@ -1,0 +1,104 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 4 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore -r win-x64 /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in D:\PAVEL\dotnet\dotnet5\Chapter06\PeopleApp\bin\Release\net5.0\b3edc73d-4941-4ec2-a40e-4f1c424c4d20
+// command took more that the timeout: 300s. Killing the process tree!
+// ***** Done, took 00:05:00 (300.54 sec)   *****
+// Found 4 benchmarks:
+//   DemoBench.Sha256: CoreRt 5.0(Runtime=CoreRt 5.0) [N=1000]
+//   DemoBench.Md5: CoreRt 5.0(Runtime=CoreRt 5.0) [N=1000]
+//   DemoBench.Sha256: CoreRt 5.0(Runtime=CoreRt 5.0) [N=10000]
+//   DemoBench.Md5: CoreRt 5.0(Runtime=CoreRt 5.0) [N=10000]
+
+// Build Error: Standard output: 
+   Восстановлен D:\PAVEL\dotnet\dotnet5\Chapter06\PeopleApp\PeopleApp.csproj (за 1,03 sec).
+  Определение проектов для восстановления... 
+ Standard error: 
+ The configured timeout 00:05:00 was reached!
+
+// Build Error: Standard output: 
+   Восстановлен D:\PAVEL\dotnet\dotnet5\Chapter06\PeopleApp\PeopleApp.csproj (за 1,03 sec).
+  Определение проектов для восстановления... 
+ Standard error: 
+ The configured timeout 00:05:00 was reached!
+
+// Build Error: Standard output: 
+   Восстановлен D:\PAVEL\dotnet\dotnet5\Chapter06\PeopleApp\PeopleApp.csproj (за 1,03 sec).
+  Определение проектов для восстановления... 
+ Standard error: 
+ The configured timeout 00:05:00 was reached!
+
+// Build Error: Standard output: 
+   Восстановлен D:\PAVEL\dotnet\dotnet5\Chapter06\PeopleApp\PeopleApp.csproj (за 1,03 sec).
+  Определение проектов для восстановления... 
+ Standard error: 
+ The configured timeout 00:05:00 was reached!
+
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+  BenchmarkDotNet.Artifacts\results\PeopleApp.DemoBench-report.csv
+  BenchmarkDotNet.Artifacts\results\PeopleApp.DemoBench-report-github.md
+  BenchmarkDotNet.Artifacts\results\PeopleApp.DemoBench-report.html
+
+// * Detailed results *
+DemoBench.Sha256: CoreRt 5.0(Runtime=CoreRt 5.0) [N=1000]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBench.Md5: CoreRt 5.0(Runtime=CoreRt 5.0) [N=1000]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBench.Sha256: CoreRt 5.0(Runtime=CoreRt 5.0) [N=10000]
+Runtime = ; GC = 
+There are not any results runs
+
+DemoBench.Md5: CoreRt 5.0(Runtime=CoreRt 5.0) [N=10000]
+Runtime = ; GC = 
+There are not any results runs
+
+// * Summary *
+
+BenchmarkDotNet=v0.12.1, OS=Windows 10.0.19042
+AMD Athlon(tm) II X4 635 Processor, 1 CPU, 4 logical and 4 physical cores
+.NET Core SDK=5.0.201
+  [Host] : .NET Core 5.0.4 (CoreCLR 5.0.421.11614, CoreFX 5.0.421.11614), X64 RyuJIT
+
+Job=CoreRt 5.0  Runtime=CoreRt 5.0  
+
+| Method |     N | Mean | Error | Ratio | RatioSD |
+|------- |------ |-----:|------:|------:|--------:|
+| Sha256 |  1000 |   NA |    NA |     ? |       ? |
+|        |       |      |       |       |         |
+|    Md5 |  1000 |   NA |    NA |     ? |       ? |
+|        |       |      |       |       |         |
+| Sha256 | 10000 |   NA |    NA |     ? |       ? |
+|        |       |      |       |       |         |
+|    Md5 | 10000 |   NA |    NA |     ? |       ? |
+
+Benchmarks with issues:
+  DemoBench.Sha256: CoreRt 5.0(Runtime=CoreRt 5.0) [N=1000]
+  DemoBench.Md5: CoreRt 5.0(Runtime=CoreRt 5.0) [N=1000]
+  DemoBench.Sha256: CoreRt 5.0(Runtime=CoreRt 5.0) [N=10000]
+  DemoBench.Md5: CoreRt 5.0(Runtime=CoreRt 5.0) [N=10000]
+
+// * Warnings *
+BaselineCustomAnalyzer
+  Summary -> A question mark '?' symbol indicates that it was not possible to compute the (Ratio, RatioSD) column(s) because the baseline value is too close to zero.
+
+// * Legends *
+  N       : Value of the 'N' parameter
+  Mean    : Arithmetic mean of all measurements
+  Error   : Half of 99.9% confidence interval
+  Ratio   : Mean of the ratio distribution ([Current]/[Baseline])
+  RatioSD : Standard deviation of the ratio distribution ([Current]/[Baseline])
+  1 ns    : 1 Nanosecond (0.000000001 sec)
+
+// ***** BenchmarkRunner: End *****
+// ** Remained 0 benchmark(s) to run **
+Run time: 00:00:00 (0.96 sec), executed benchmarks: 0
+
+Global total time: 00:05:01 (301.52 sec), executed benchmarks: 0
+// * Artifacts cleanup *

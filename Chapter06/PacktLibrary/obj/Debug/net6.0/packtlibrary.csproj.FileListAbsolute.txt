@@ -1,0 +1,12 @@
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\obj\Debug\net6.0\packtlibrary.csprojAssemblyReference.cache
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\obj\Debug\net6.0\packtlibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\obj\Debug\net6.0\packtlibrary.AssemblyInfoInputs.cache
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\obj\Debug\net6.0\packtlibrary.AssemblyInfo.cs
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\obj\Debug\net6.0\packtlibrary.csproj.CoreCompileInputs.cache
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\bin\Debug\net6.0\packtlibrary.deps.json
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\bin\Debug\net6.0\packtlibrary.dll
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\bin\Debug\net6.0\ref\packtlibrary.dll
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\bin\Debug\net6.0\packtlibrary.pdb
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\obj\Debug\net6.0\packtlibrary.dll
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\obj\Debug\net6.0\ref\packtlibrary.dll
+D:\PAVEL\dotnet\dotnet5\Chapter06\packtlibrary\obj\Debug\net6.0\packtlibrary.pdb

@@ -1,0 +1,12 @@
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.deps.json
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.dll
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\bin\Debug\net5.0\ref\PrimeFactorsLib.dll
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\bin\Debug\net5.0\PrimeFactorsLib.pdb
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.csprojAssemblyReference.cache
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.AssemblyInfo.cs
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.dll
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\ref\PrimeFactorsLib.dll
+D:\PAVEL\dotnet\dotnet5\Chapter04\PrimeFactorsLib\obj\Debug\net5.0\PrimeFactorsLib.pdb

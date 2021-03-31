@@ -1,0 +1,5 @@
+D:\pavel\dotnet\dotnet5\Chapter07\dotnetcoreeverywhere\bin\Debug\net5.0\publish\DotNetCoreEveryWhere.exe
+D:\pavel\dotnet\dotnet5\Chapter07\dotnetcoreeverywhere\bin\Debug\net5.0\publish\DotNetCoreEveryWhere.dll
+D:\pavel\dotnet\dotnet5\Chapter07\dotnetcoreeverywhere\bin\Debug\net5.0\publish\DotNetCoreEveryWhere.deps.json
+D:\pavel\dotnet\dotnet5\Chapter07\dotnetcoreeverywhere\bin\Debug\net5.0\publish\DotNetCoreEveryWhere.runtimeconfig.json
+D:\pavel\dotnet\dotnet5\Chapter07\dotnetcoreeverywhere\bin\Debug\net5.0\publish\DotNetCoreEveryWhere.pdb

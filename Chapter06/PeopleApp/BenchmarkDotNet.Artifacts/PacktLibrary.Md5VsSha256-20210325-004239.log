@@ -1,0 +1,164 @@
+Mono is not installed or added to PATH, benchmark 'Md5VsSha256.Sha256: Mono(Runtime=Mono) [N=1000]' will not be executed
+Mono is not installed or added to PATH, benchmark 'Md5VsSha256.Md5: Mono(Runtime=Mono) [N=1000]' will not be executed
+Mono is not installed or added to PATH, benchmark 'Md5VsSha256.Sha256: Mono(Runtime=Mono) [N=10000]' will not be executed
+Mono is not installed or added to PATH, benchmark 'Md5VsSha256.Md5: Mono(Runtime=Mono) [N=10000]' will not be executed
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 12 benchmark(s) in total *****
+// ***** Building 3 exe(s) in Parallel: Start   *****
+// ***** Done, took 00:00:00 (0.24 sec)   *****
+// Found 12 benchmarks:
+//   Md5VsSha256.Sha256: .NET 4.7.2(Runtime=.NET 4.7.2) [N=1000]
+//   Md5VsSha256.Md5: .NET 4.7.2(Runtime=.NET 4.7.2) [N=1000]
+//   Md5VsSha256.Sha256: .NET Core 3.0(Runtime=.NET Core 3.0) [N=1000]
+//   Md5VsSha256.Md5: .NET Core 3.0(Runtime=.NET Core 3.0) [N=1000]
+//   Md5VsSha256.Sha256: CoreRt 3.0(Runtime=CoreRt 3.0) [N=1000]
+//   Md5VsSha256.Md5: CoreRt 3.0(Runtime=CoreRt 3.0) [N=1000]
+//   Md5VsSha256.Sha256: .NET 4.7.2(Runtime=.NET 4.7.2) [N=10000]
+//   Md5VsSha256.Md5: .NET 4.7.2(Runtime=.NET 4.7.2) [N=10000]
+//   Md5VsSha256.Sha256: .NET Core 3.0(Runtime=.NET Core 3.0) [N=10000]
+//   Md5VsSha256.Md5: .NET Core 3.0(Runtime=.NET Core 3.0) [N=10000]
+//   Md5VsSha256.Sha256: CoreRt 3.0(Runtime=CoreRt 3.0) [N=10000]
+//   Md5VsSha256.Md5: CoreRt 3.0(Runtime=CoreRt 3.0) [N=10000]
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// Generate Exception: Unable to find packtlibrary in D:\PAVEL\dotnet\dotnet5\Chapter06 and its subfolders. Most probably the name of output exe is different than the name of the .(c/f)sproj
+
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+  BenchmarkDotNet.Artifacts\results\PacktLibrary.Md5VsSha256-report.csv
+  BenchmarkDotNet.Artifacts\results\PacktLibrary.Md5VsSha256-report-github.md
+  BenchmarkDotNet.Artifacts\results\PacktLibrary.Md5VsSha256-report.html
+  BenchmarkDotNet.Artifacts\results\PacktLibrary.Md5VsSha256-measurements.csv
+  BenchmarkDotNet.Artifacts\results\BuildPlots.R
+RPlotExporter couldn't find Rscript.exe in your PATH and no R_HOME environment variable is defined
+
+// * Detailed results *
+Md5VsSha256.Sha256: .NET 4.7.2(Runtime=.NET 4.7.2) [N=1000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Sha256: .NET Core 3.0(Runtime=.NET Core 3.0) [N=1000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Sha256: CoreRt 3.0(Runtime=CoreRt 3.0) [N=1000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Md5: .NET 4.7.2(Runtime=.NET 4.7.2) [N=1000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Md5: .NET Core 3.0(Runtime=.NET Core 3.0) [N=1000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Md5: CoreRt 3.0(Runtime=CoreRt 3.0) [N=1000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Sha256: .NET 4.7.2(Runtime=.NET 4.7.2) [N=10000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Sha256: .NET Core 3.0(Runtime=.NET Core 3.0) [N=10000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Sha256: CoreRt 3.0(Runtime=CoreRt 3.0) [N=10000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Md5: .NET 4.7.2(Runtime=.NET 4.7.2) [N=10000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Md5: .NET Core 3.0(Runtime=.NET Core 3.0) [N=10000]
+Runtime = ; GC = 
+There are not any results runs
+
+Md5VsSha256.Md5: CoreRt 3.0(Runtime=CoreRt 3.0) [N=10000]
+Runtime = ; GC = 
+There are not any results runs
+
+// * Summary *
+
+BenchmarkDotNet=v0.12.1, OS=Windows 10.0.19042
+AMD Athlon(tm) II X4 635 Processor, 1 CPU, 4 logical and 4 physical cores
+.NET Core SDK=5.0.201
+  [Host] : .NET Core 5.0.4 (CoreCLR 5.0.421.11614, CoreFX 5.0.421.11614), X64 RyuJIT
+
+
+| Method |           Job |       Runtime |     N | Mean | Error | Ratio | RatioSD |
+|------- |-------------- |-------------- |------ |-----:|------:|------:|--------:|
+| Sha256 |    .NET 4.7.2 |    .NET 4.7.2 |  1000 |   NA |    NA |     ? |       ? |
+| Sha256 | .NET Core 3.0 | .NET Core 3.0 |  1000 |   NA |    NA |     ? |       ? |
+| Sha256 |    CoreRt 3.0 |    CoreRt 3.0 |  1000 |   NA |    NA |     ? |       ? |
+|        |               |               |       |      |       |       |         |
+|    Md5 |    .NET 4.7.2 |    .NET 4.7.2 |  1000 |   NA |    NA |     ? |       ? |
+|    Md5 | .NET Core 3.0 | .NET Core 3.0 |  1000 |   NA |    NA |     ? |       ? |
+|    Md5 |    CoreRt 3.0 |    CoreRt 3.0 |  1000 |   NA |    NA |     ? |       ? |
+|        |               |               |       |      |       |       |         |
+| Sha256 |    .NET 4.7.2 |    .NET 4.7.2 | 10000 |   NA |    NA |     ? |       ? |
+| Sha256 | .NET Core 3.0 | .NET Core 3.0 | 10000 |   NA |    NA |     ? |       ? |
+| Sha256 |    CoreRt 3.0 |    CoreRt 3.0 | 10000 |   NA |    NA |     ? |       ? |
+|        |               |               |       |      |       |       |         |
+|    Md5 |    .NET 4.7.2 |    .NET 4.7.2 | 10000 |   NA |    NA |     ? |       ? |
+|    Md5 | .NET Core 3.0 | .NET Core 3.0 | 10000 |   NA |    NA |     ? |       ? |
+|    Md5 |    CoreRt 3.0 |    CoreRt 3.0 | 10000 |   NA |    NA |     ? |       ? |
+
+Benchmarks with issues:
+  Md5VsSha256.Sha256: .NET 4.7.2(Runtime=.NET 4.7.2) [N=1000]
+  Md5VsSha256.Sha256: .NET Core 3.0(Runtime=.NET Core 3.0) [N=1000]
+  Md5VsSha256.Sha256: CoreRt 3.0(Runtime=CoreRt 3.0) [N=1000]
+  Md5VsSha256.Md5: .NET 4.7.2(Runtime=.NET 4.7.2) [N=1000]
+  Md5VsSha256.Md5: .NET Core 3.0(Runtime=.NET Core 3.0) [N=1000]
+  Md5VsSha256.Md5: CoreRt 3.0(Runtime=CoreRt 3.0) [N=1000]
+  Md5VsSha256.Sha256: .NET 4.7.2(Runtime=.NET 4.7.2) [N=10000]
+  Md5VsSha256.Sha256: .NET Core 3.0(Runtime=.NET Core 3.0) [N=10000]
+  Md5VsSha256.Sha256: CoreRt 3.0(Runtime=CoreRt 3.0) [N=10000]
+  Md5VsSha256.Md5: .NET 4.7.2(Runtime=.NET 4.7.2) [N=10000]
+  Md5VsSha256.Md5: .NET Core 3.0(Runtime=.NET Core 3.0) [N=10000]
+  Md5VsSha256.Md5: CoreRt 3.0(Runtime=CoreRt 3.0) [N=10000]
+
+// * Warnings *
+BaselineCustomAnalyzer
+  Summary -> A question mark '?' symbol indicates that it was not possible to compute the (Ratio, RatioSD) column(s) because the baseline value is too close to zero.
+
+// * Legends *
+  N       : Value of the 'N' parameter
+  Mean    : Arithmetic mean of all measurements
+  Error   : Half of 99.9% confidence interval
+  Ratio   : Mean of the ratio distribution ([Current]/[Baseline])
+  RatioSD : Standard deviation of the ratio distribution ([Current]/[Baseline])
+  1 ns    : 1 Nanosecond (0.000000001 sec)
+
+// ***** BenchmarkRunner: End *****
+// ** Remained 0 benchmark(s) to run **
+Run time: 00:00:00 (0.73 sec), executed benchmarks: 0
+
+Global total time: 00:00:00 (0.99 sec), executed benchmarks: 0
+// * Artifacts cleanup *
