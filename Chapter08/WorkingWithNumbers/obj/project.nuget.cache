@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "19pl9QilQWbRK39GSSVLPUgSD17e6IdWKmAPTCS4WajSdeXBpwKRxrVQzHUhB36GcO5Mlam1XyWNKFlwoDI7lA==",
+  "dgSpecHash": "LdzCptG27YeyMeqI4okrP8djzW5cgN1tCO3k92S+d1E9F8H2cY7QMeJQLsO8WtHCYirEk8N0yrbuFxaj8jtugw==",
   "success": true,
   "projectFilePath": "D:\\PAVEL\\dotnet\\dotnet5\\Chapter08\\WorkingWithNumbers\\WorkingWithNumbers.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tolpa\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.3\\microsoft.netcore.app.runtime.win-x64.5.0.3.nupkg.sha512",
-    "C:\\Users\\tolpa\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.3.nupkg.sha512",
-    "C:\\Users\\tolpa\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.3\\microsoft.aspnetcore.app.runtime.win-x64.5.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
