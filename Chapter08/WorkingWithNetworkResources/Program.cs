@@ -13,15 +13,22 @@ namespace WorkingWithNetworkResources
             string url = ReadLine();
             if (string.IsNullOrWhiteSpace(url))
             {
-                url = "https//:world/episerver.com/cms/&q=pagetype";
+                url = "https://world/episerver.com/cms/&q=pagetype";
             }
-            var uri = new URI(url);
-            WriteLine($"URL: {url}");
-            WriteLine($"Scheme: {uri.Scheme}");
-            WriteLine($"Port: {uri.Port}");
-            WriteLine($"Host: {uri.Host}");
-            WriteLine($"Path: {uri.AbsolutePath}");
-            WriteLine($"Query: {uri.Query}");
+            try
+            {
+                var uri = new Uri(url);
+                WriteLine($"URL: {url}");
+                WriteLine($"Scheme: {uri.Scheme}");
+                WriteLine($"Port: {uri.Port}");
+                WriteLine($"Host: {uri.Host}");
+                WriteLine($"Path: {uri.AbsolutePath}");
+                WriteLine($"Query: {uri.Query}");
+            }
+            catch (UriFormatException ex)
+            {
+                WriteLine(ex.Message, ex.StackTrace);
+            }
         }
     }
 }
