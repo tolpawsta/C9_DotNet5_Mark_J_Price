@@ -13,7 +13,10 @@ namespace WorkingWithNetworkResources
     {
         static void Main(string[] args)
         {
-            Write("Enter a valid web address: ");
+            var exited=false;
+            while (not exited)
+            {
+               Write("Enter a valid web address: ");
             string url = ReadLine();
             if (string.IsNullOrWhiteSpace(url))
             {
@@ -61,6 +64,9 @@ namespace WorkingWithNetworkResources
             {
                 WriteLine(ex.Message, ex.StackTrace);
             }
+            ReadLine(); 
+            }
+            
         }
     }
 }
