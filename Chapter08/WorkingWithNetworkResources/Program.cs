@@ -1,6 +1,8 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Net;
+using System.Net.NetworkInformation;
 using System.Net.Sockets;
 
 using static System.Console;
@@ -33,12 +35,29 @@ namespace WorkingWithNetworkResources
                     .AddressList
                     .ToList()
                     .ForEach(address => WriteLine(address));
+
+                // pinging host
+                var ping = new Ping();
+                WriteLine("Pinging server. Please wait...");
+                var reply = ping.Send(uri.Host);
+
+                WriteLine($"{uri.Host} was pinged and replied: {reply.Status}");
+                if (reply.Status == IPStatus.Success)
+                {
+                    WriteLine("Reply from {0} took {1:N0}ms",
+                    arg0: reply.Address,
+                    arg1: reply.RoundtripTime);
+                }
             }
             catch (UriFormatException ex)
             {
                 WriteLine(ex.Message, ex.StackTrace);
             }
             catch (SocketException ex)
+            {
+                WriteLine(ex.Message, ex.StackTrace);
+            }
+            catch (PingException ex)
             {
                 WriteLine(ex.Message, ex.StackTrace);
             }
