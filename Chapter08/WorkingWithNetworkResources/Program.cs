@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Linq;
 using System.Net;
+using System.Net.Sockets;
 
 using static System.Console;
 
@@ -13,7 +15,7 @@ namespace WorkingWithNetworkResources
             string url = ReadLine();
             if (string.IsNullOrWhiteSpace(url))
             {
-                url = "https://world/episerver.com/cms/&q=pagetype";
+                url = "https://ggkttd.by";
             }
             try
             {
@@ -24,8 +26,19 @@ namespace WorkingWithNetworkResources
                 WriteLine($"Host: {uri.Host}");
                 WriteLine($"Path: {uri.AbsolutePath}");
                 WriteLine($"Query: {uri.Query}");
+
+                var entry = Dns.GetHostEntry(uri.Host);
+                WriteLine($"{entry.HostName} has the following IP addresses:");
+                entry
+                    .AddressList
+                    .ToList()
+                    .ForEach(address => WriteLine(address));
             }
             catch (UriFormatException ex)
+            {
+                WriteLine(ex.Message, ex.StackTrace);
+            }
+            catch (SocketException ex)
             {
                 WriteLine(ex.Message, ex.StackTrace);
             }
