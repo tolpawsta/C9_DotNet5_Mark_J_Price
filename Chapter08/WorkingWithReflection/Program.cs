@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using System.Reflection;
+using WorkingWithReflection.Shared;
 
 using static System.Console;
 
@@ -40,22 +41,22 @@ namespace WorkingWithReflection
             var members = types.SelectMany(t => t.GetMembers()).ToList();
             members
                 .ForEach(member =>
-                    WriteLine($"{0}: {1} ({1})",
+                    WriteLine("{0}: {1} ({2})",
                     arg0: member.MemberType,
                     arg1: member.Name,
-                    member.DeclaringType.Name));
+                    arg2: member.DeclaringType.Name));
 
             // Coders
             WriteLine("*************************");
             var coders =
                 members
-                    .Select(member =>
-                        member.GetCustomAttribute<CoderAttribute>())
+                    .SelectMany(member =>
+                        member.GetCustomAttributes<CoderAttribute>())
                     .OrderByDescending(coder => coder.LastModified)
                     .ToList();
             coders
                 .ForEach(coder =>
-                    WriteLine($"Modified by {0} on {1}",
+                    WriteLine("Modified by {0} on {1}",
                     arg0: coder.Coder,
                     arg1: coder.LastModified.ToShortDateString()));
             // ReadLine();
