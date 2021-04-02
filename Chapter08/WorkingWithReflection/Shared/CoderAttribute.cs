@@ -2,6 +2,11 @@ using System;
 
 namespace WorkingWithReflection.Shared
 {
+    [
+        AttributeUsage(
+            AttributeTargets.Class | AttributeTargets.Method,
+            AllowMultiple = true)
+    ]
     public class CoderAttribute : Attribute
     {
         public string Coder { get; set; }
