@@ -13,10 +13,10 @@ namespace WorkingWithReflection.Shared
 
         public DateTime LastModified { get; set; }
 
-        public CoderAttribute(string coder, DateTime lastModified)
+        public CoderAttribute(string coder, string lastModified)
         {
             Coder = coder;
-            LastModified = lastModified;
+            LastModified = DateTime.Parse(lastModified);
         }
     }
 }
