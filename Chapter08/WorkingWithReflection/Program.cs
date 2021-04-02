@@ -59,7 +59,7 @@ namespace WorkingWithReflection
                     WriteLine("Modified by {0} on {1}",
                     arg0: coder.Coder,
                     arg1: coder.LastModified.ToShortDateString()));
-            // ReadLine();
+            ReadLine();
         }
 
         [Coder("tolpawsta", "02.04.2021")]
