@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Reflection;
+
+using static System.Console;
 
 namespace WorkingWithReflection
 {
@@ -6,7 +9,13 @@ namespace WorkingWithReflection
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WriteLine("Assemley metadata: ");
+            var assemley = Assembly.GetEntryAssembly();
+
+            WriteLine($"Full name: {assemley.FullName}");
+            WriteLine($" Location: {assemley.Location}");
+
+            ReadLine();
         }
     }
 }
