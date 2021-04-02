@@ -8,6 +8,9 @@
     },
     {
       "path": "WorkingWithNetworkResources"
+    },
+    {
+      "path": "WorkingWithNetworkReflection"
     }
   ],
   "settings": {}
